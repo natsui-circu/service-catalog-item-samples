@@ -1,3 +1,5 @@
+//GitHub練習のためコメントを追加
+
 /**
  * Supports Case creation in Fulfillment Flows used by the Service Catalog.
  */
